@@ -13,5 +13,9 @@ public class List {
 		}
 		System.out.println(count);
 	}
+	private void method() {
+		System.out.println("method 2");// TODO Auto-generated method stub
+
+	}
 
 }
