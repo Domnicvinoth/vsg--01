@@ -13,5 +13,9 @@ public class List {
 		}
 		System.out.println(count);
 	}
+	public void sysout() {
+		System.out.println("success");
+
+	}
 
 }
